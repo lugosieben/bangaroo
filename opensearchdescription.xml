@@ -4,5 +4,5 @@
   <ShortName>Bangaroo</ShortName>
   <Description>Search with Bangs!</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Url type="text/html" method="get" template="https://lugosieben.github.io/bangaroo/search.html?q={searchTerms}"/>
+  <Url type="text/html" method="get" template="https://bang.lugo.ovh/search.html?q={searchTerms}"/>
 </OpenSearchDescription>
